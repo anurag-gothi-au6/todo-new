@@ -1,0 +1,12 @@
+.tasks{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.task{
+margin-bottom: 3%;
+box-shadow: -20px 7px #f4f4f4;
+height:10%;
+}
+.taskend{
+    background-color:#efeeef
+}
