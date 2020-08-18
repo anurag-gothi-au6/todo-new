@@ -6,7 +6,9 @@
 margin-bottom: 3%;
 box-shadow: -20px 7px #f4f4f4;
 height:10%;
+padding:4%;
 }
 .taskend{
+    box-shadow: 0;
     background-color:#efeeef
 }
