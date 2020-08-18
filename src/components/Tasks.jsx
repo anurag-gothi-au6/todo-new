@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import "../styles/tasks.css";
-import picture from '../assest/images.jpeg'
 
 export class Tasks extends Component {
   render() {

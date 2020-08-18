@@ -14,7 +14,7 @@ function App() {
         <User></User>
         <Tasks></Tasks>
         </div>
-        <img className='add' src="https://img.icons8.com/ultraviolet/64/000000/plus.png"/>
+        <img className='add' src="https://img.icons8.com/ultraviolet/64/000000/plus.png" alt='add'/>
       </div>
     </div>
   );
